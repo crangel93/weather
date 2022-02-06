@@ -1,0 +1,65 @@
+#h1Gradient{
+    border-style: solid;
+    background-image: linear-gradient(to right, blue , purple);
+
+}
+#searchButton{
+    width:152px;
+}
+#cityCurrentWeather{
+    border-style: solid;
+    width: 85%;
+    height: 25%;
+    float:right;
+    
+}
+.card1{
+    border-style: solid;
+    width:150px;
+    height: 225px;
+    left: 195px;
+    top:0px;
+    clear:both;
+    position:relative;
+    
+   
+    
+}.card2{
+    border-style: solid;
+    width:150px;
+    height: 225px;
+    
+    left: 400px;
+    top:-233px;
+    position:relative;
+}
+.card3{
+    border-style: solid;
+    width:150px;
+    height: 225px;
+    float:left;
+    clear:both;
+    left: 600px;
+    top:-462px;
+    position:relative;
+}
+.card4{
+    border-style: solid;
+    width:150px;
+    height: 225px;
+    float:left;
+    clear:both;
+    left: 800px;
+    top:-695px;
+    position:relative;
+}
+.card5{
+    border-style: solid;
+    width:150px;
+    height: 225px;
+    float:left;
+    clear:both;
+    left: 1000px;
+    top:-925px;
+    position:relative;
+}
